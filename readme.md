@@ -5,9 +5,7 @@ Structure from Motion (SfM): Using the sequence of images (or video frames), thi
 This work is based on & inspired from the python implementation of simple SfM from the git repo (https://github.com/harish-vnkt/structure-from-motion). This c++ version improves upon this code.
 
 <Foundtain> 
-![0008](https://user-images.githubusercontent.com/58758359/207216689-1449b1f2-878f-409b-b9ad-a5bc2bb4570c.jpg)
-![fountain](https://user-images.githubusercontent.com/58758359/207216728-491b24c7-99c0-4c4c-94a0-0a6c16dfdcb4.png)
-![fountain2](https://user-images.githubusercontent.com/58758359/207216738-9eab5bb4-b29a-4749-bc30-a958fdf48fec.png)
+![Alt Image text](/images/0008.jpg?raw=true "Fountain image input")
 
 ## Dependencies ##
 
