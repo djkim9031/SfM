@@ -5,7 +5,7 @@
 #include "match.h"
 #include <iostream>
 
-#include <opencv4/opencv2/opencv.hpp>
+#include <opencv2/opencv.hpp>
 
 
 inline std::pair<cv::Mat, cv::Mat> get_keypoints_from_indices(const std::vector<cv::KeyPoint> &keypoints1, const std::vector<int> &index_list1,
